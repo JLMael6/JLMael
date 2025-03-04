@@ -4,7 +4,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=FFFFFF&center=true&vCenter=true&width=1120&lines=Consultant+Développeur;Chez+Magic+Software+Enterprises;20+ans;Passionné+de+tech+et+de+Formule+1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=FFFFFF&center=true&vCenter=true&width=1120&lines=Consultant+Développeur">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=000000&center=true&vCenter=true&width=1120&lines=Consultant+Développeur;Chez+Magic+Software+Enterprises;20+ans;Passionné+de+tech+et+de+Formule+1"/>
 </picture>
 
