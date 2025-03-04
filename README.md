@@ -29,10 +29,6 @@
 
 ---
 
-<h3>👩‍💻 Entering in code mode</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU5Nzc2NDBub2E0M2MwOXRwZXd6dWdjMmR5d2gyd2Z0OW92ZnRtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzPFt8mP3vHDkPYZhL/giphy.gif"/>
-</br>
-
 
 <!-- <h3>🔧 Technical stack</h3> -->
 
