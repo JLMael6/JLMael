@@ -12,6 +12,7 @@
 <h3>🤙 A little about me</h3>
 <p>My name is Maël, I am 20 years old, and I am a Consultant Developer at Magic Software Enterprises. 💻✨</p>
 <p>I am passionate about motorsports, especially Formula 1. 🏎️💨</p>
+<img src="https://64.media.tumblr.com/aa9aecaa596f7ae006f3e7e1c1330ad0/8e9ac3c3a5b43612-3f/s540x810/1d4857c35b5f13fbacd635591ad8113a21e1e564.gif"/>
 </br></br>
 <!--START_SECTION:early_night-->
 **I'm an Early 🐤** 
